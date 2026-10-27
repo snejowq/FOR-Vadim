@@ -1,0 +1,61 @@
+Running main() from /private/tmp/googletest-20260810-2300-tbptpn/googletest-1.18.0/googletest/src/gtest_main.cc
+[==========] Running 23 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 7 tests from Factorization
+[ RUN      ] Factorization.Number12
+[       OK ] Factorization.Number12 (0 ms)
+[ RUN      ] Factorization.Number100
+[       OK ] Factorization.Number100 (0 ms)
+[ RUN      ] Factorization.PrimeNumber
+[       OK ] Factorization.PrimeNumber (0 ms)
+[ RUN      ] Factorization.BigPrimeNumber
+[       OK ] Factorization.BigPrimeNumber (0 ms)
+[ RUN      ] Factorization.Number2
+[       OK ] Factorization.Number2 (0 ms)
+[ RUN      ] Factorization.PowerOfTwo
+[       OK ] Factorization.PowerOfTwo (0 ms)
+[ RUN      ] Factorization.ThreeDifferentPrimes
+[       OK ] Factorization.ThreeDifferentPrimes (0 ms)
+[----------] 7 tests from Factorization (0 ms total)
+
+[----------] 7 tests from Mersenne
+[ RUN      ] Mersenne.TooSmall
+[       OK ] Mersenne.TooSmall (0 ms)
+[ RUN      ] Mersenne.BorderIncluded
+[       OK ] Mersenne.BorderIncluded (0 ms)
+[ RUN      ] Mersenne.UpTo7
+[       OK ] Mersenne.UpTo7 (0 ms)
+[ RUN      ] Mersenne.UpTo30
+[       OK ] Mersenne.UpTo30 (0 ms)
+[ RUN      ] Mersenne.UpTo31
+[       OK ] Mersenne.UpTo31 (0 ms)
+[ RUN      ] Mersenne.UpTo127
+[       OK ] Mersenne.UpTo127 (0 ms)
+[ RUN      ] Mersenne.UpTo10000
+[       OK ] Mersenne.UpTo10000 (0 ms)
+[----------] 7 tests from Mersenne (0 ms total)
+
+[----------] 9 tests from CenterSquare
+[ RUN      ] CenterSquare.ExamplesFromTask
+[       OK ] CenterSquare.ExamplesFromTask (0 ms)
+[ RUN      ] CenterSquare.FiveDigitNumber
+[       OK ] CenterSquare.FiveDigitNumber (0 ms)
+[ RUN      ] CenterSquare.OneDigit
+[       OK ] CenterSquare.OneDigit (0 ms)
+[ RUN      ] CenterSquare.NotSuitable
+[       OK ] CenterSquare.NotSuitable (0 ms)
+[ RUN      ] CenterSquare.ZeroInCenter
+[       OK ] CenterSquare.ZeroInCenter (0 ms)
+[ RUN      ] CenterSquare.FindInSmallRange
+[       OK ] CenterSquare.FindInSmallRange (0 ms)
+[ RUN      ] CenterSquare.FindOneNumber
+[       OK ] CenterSquare.FindOneNumber (0 ms)
+[ RUN      ] CenterSquare.ReversedBorders
+[       OK ] CenterSquare.ReversedBorders (0 ms)
+[ RUN      ] CenterSquare.NothingFound
+[       OK ] CenterSquare.NothingFound (0 ms)
+[----------] 9 tests from CenterSquare (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 23 tests from 3 test suites ran. (0 ms total)
+[  PASSED  ] 23 tests.
